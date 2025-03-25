@@ -1,0 +1,8 @@
+name: Computer-Vision
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+prefix: /home/jungseong/anaconda3/envs/Computer-Vision
